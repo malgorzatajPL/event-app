@@ -1,5 +1,5 @@
 import EventItem from './event-item';
-import classes from '../../styles/even-list.module.css';
+import classes from './even-list.module.css';
 
 function EventList(props) {
   const { items } = props;
